@@ -1,4 +1,5 @@
 anthropic
 flask
 python-dotenv
+gunicorn
 requests
